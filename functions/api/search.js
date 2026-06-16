@@ -19,7 +19,8 @@ export async function onRequest(context) {
         hl: "en"
       }
     },
-    query: query
+    query: query,
+    params: "EgWKAQIIAWoMEAMQBBAJEA4QChAF"
   };
 
   try {
